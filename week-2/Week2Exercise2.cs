@@ -8,9 +8,9 @@ public class Week2Exercise2 : MonoBehaviour
     /*
     
     En un juego de cartas donde existen criaturas que tienen un determinado ataque, tenemos la situaci�n en la que dos de estos se ven enfrentados y se tiene que indicar lo siguiente: 
-        a. Si el ataque de las dos es igual: �Se destruyeron ambas criaturas.� 
-        b. Si el ataque del primero es mayor al del segundo: �El primero aniquilo al segundo.� 
-        c. Si el ataque del segundo es mayor al del primero: �El segundo aniquilo al primero.�
+        a. Si el ataque de las dos es igual: 'Se destruyeron ambas criaturas.' 
+        b. Si el ataque del primero es mayor al del segundo: 'El primero aniquilo al segundo.'
+        c. Si el ataque del segundo es mayor al del primero: 'El segundo aniquilo al primero.'
     
     */
 

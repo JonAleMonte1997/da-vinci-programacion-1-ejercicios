@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 /*
-    1. Dado el da�o base de un personaje, realice un programa que calcule su da�o cr�tico sabiendo que la f�rmula es: DC=(da�obase)�+80% del da�o base 
+    1. Dado el daño base de un personaje, realice un programa que calcule su daño crítico sabiendo que la fórmula es: DC=(daño base)^2 + 80% del daño base 
  */
 
 public class Week1Exercise1 : MonoBehaviour

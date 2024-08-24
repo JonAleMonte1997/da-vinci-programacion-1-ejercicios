@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using UnityEngine;
 
 /*
- En un juego de administraci�n de una estaci�n de tren, se quiere saber la siguiente informaci�n sobre un tren que esta por partir para la pantalla de m�tricas:
-    a. Si el tren que esta por partir tiene un total de vagones par (ingrese de forma manual el n�mero de vagones).
-    b. Cuantos pasajeros viajan en el tren, sabiendo que en cada vag�n entran 50 personas
+ En un juego de administración de una estación de tren, se quiere saber la siguiente información sobre un tren que esta por partir para la pantalla de métricas:
+    a. Si el tren que esta por partir tiene un total de vagones par (ingrese de forma manual el número de vagones).
+    b. Cuantos pasajeros viajan en el tren, sabiendo que en cada vagón entran 50 personas
  */
 public class Week1Exercise3 : MonoBehaviour
 {
